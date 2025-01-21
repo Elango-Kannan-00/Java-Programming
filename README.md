@@ -31,8 +31,8 @@ TypeCasting in Java
 
 Key String Methods
 -
-  - Basic String concepts ( Creation, Finding Lenght, etc ).
+  - Basic String concepts ( Creation, Finding Lenght, Upper and Lower case, Concateenation, etc ).
  
 Arrays 
 -
-  - Basics of Arrays (Creation, Traversing, Finding Smallest Number and Average).
+  - Basics of Arrays ( Creation, Traversing, Finding Smallest Number and Average ).
