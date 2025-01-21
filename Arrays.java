@@ -38,28 +38,28 @@ public class Arrays
         }
         System.out.println("The Smallest Number in the Array is :" +Smallest_no);
     }
-    
-    // Output will be:
- /* Element at Index0 is 11
-    Element at Index1 is 21
-    Element at Index2 is 89
-    Element at Index3 is 55
-    Element at Index4 is 51
-    Element at Index5 is 37
-    Element at Index6 is 2
-    Element at Index7 is 44
-    Element at Index8 is 52
-    Element at Index9 is 16
-    Element is 11
-    Element is 21
-    Element is 89
-    Element is 55
-    Element is 51
-    Element is 37
-    Element is 2
-    Element is 44
-    Element is 52
-    Element is 16
-    Sum of the Array is :37
-    The Smallest Number in the Array is :2 */
 }
+
+    // Output will be:
+     /* Element at Index0 is 11
+        Element at Index1 is 21
+        Element at Index2 is 89
+        Element at Index3 is 55
+        Element at Index4 is 51
+        Element at Index5 is 37
+        Element at Index6 is 2
+        Element at Index7 is 44
+        Element at Index8 is 52
+        Element at Index9 is 16
+        Element is 11
+        Element is 21
+        Element is 89
+        Element is 55
+        Element is 51
+        Element is 37
+        Element is 2
+        Element is 44
+        Element is 52
+        Element is 16
+        Sum of the Array is :37
+        The Smallest Number in the Array is :2 */
