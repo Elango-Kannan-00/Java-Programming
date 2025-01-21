@@ -38,6 +38,7 @@ public class Arrays
         }
         System.out.println("The Smallest Number in the Array is :" +Smallest_no);
     }
+    
     // Output will be:
  /* Element at Index0 is 11
     Element at Index1 is 21
