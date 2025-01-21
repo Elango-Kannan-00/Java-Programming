@@ -36,7 +36,7 @@ Exception Handling ( Error2.java )
 -
   - A simple program that explains how errors can be Detected and Hnadled using Try-Catch block and prompting Exceptions.
 
-TypeCasting in Java ( TypeCasting.java )
+Type casting in Java ( TypeCasting.java )
 -
   - Converting one Datatype into another in Java ( Widening and Narrowing Dtypes ).
 
