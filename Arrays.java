@@ -61,5 +61,5 @@ public class Arrays
         Element is 44
         Element is 52
         Element is 16
-        Sum of the Array is :37
+        Average of the Array is :37
         The Smallest Number in the Array is :2 */
