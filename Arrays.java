@@ -24,7 +24,7 @@ public class Arrays
             Sum+=element; // Sum of all elements of the array
          }
          int Average = Sum/LengthofMyArray;
-         System.out.println("Sum of the Array is :" +Average);
+         System.out.println("Average of the Array is :" +Average);
 
          //Finding the smallest number in the given array
         
