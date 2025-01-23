@@ -14,7 +14,7 @@ Operators ( Armop.java )
 
 Switch statements ( Switch.java )
 -
-  - With the help of Switch statement implemented the "Finding Week Day" Program.
+  - With the help of Switch statement implemented the "Finding a Day" Program.
    
 Single Inheritance ( Singheritance.java )
 -
