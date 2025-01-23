@@ -8,7 +8,7 @@ Conditional Statements ( Condstat.java )
 -
   - Performed Conditional Statements like If, If-Else, Else-If etc.
  
-Operators ( Armop,java )
+Operators ( Armop.java )
 - 
   - Performing basic Operations like Additon, Subtraction using the Operators available in Java.
 
