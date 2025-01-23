@@ -34,7 +34,7 @@ Interface ( InterfaceExample.java )
 
 Exception Handling ( Error2.java )
 -
-  - A simple program that explains how errors can be Detected and Hnadled using Try-Catch block and prompting Exceptions.
+  - A simple program that explains how errors can be Detected and Handled using Try-Catch block and prompting Exceptions.
 
 Type casting in Java ( TypeCasting.java )
 -
