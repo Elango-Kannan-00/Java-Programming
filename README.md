@@ -47,3 +47,9 @@ Key String Methods ( Strings.java )
 Arrays ( Arrays.java )
 -
   - Basics of Arrays ( Creation, Traversing, Finding Smallest Number and Average ).
+
+Methods ( Methods.java )
+-
+  - Methods : Definition and declarations, parameters and arguments, return type.
+
+
