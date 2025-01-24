@@ -56,25 +56,9 @@ class Method3
     }
 }
 
-// Method overloading
-class Method4
-{
-    static double myMethod(double x, double t)
-    {
-        double d=x+t;
-        return d;
-    }
-    static int myMethod(int x, int y)
-    {
-        int c = x+y;
-        return c;
-    }
-    public static void main(String [] args)
-    {
-        int c=myMethod(1,3);
-        System.out.println("The Sum is : " + c);
-        double d = myMethod(99.99, 99.99);
-        System.out.println(" The Sum is : " + d);
-    }
-        
-}
+// Output 
+  // HI this is a Sample Program
+  // Hi Elango
+  // Hi Kannan
+  // 90
+  // 100
