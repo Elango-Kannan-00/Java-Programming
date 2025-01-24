@@ -60,5 +60,5 @@ class Method3
   // HI this is a Sample Program
   // Hi Elango
   // Hi Kannan
-  // 90
-  // 100
+  // Sum is 90
+  // The Sum is : 100
