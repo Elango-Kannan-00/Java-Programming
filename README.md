@@ -59,3 +59,11 @@ Method Overloading ( MethodOverloading.java )
 Recursion ( Recursion.java )
 -
   - A simple program that explains RECURSION.
+
+Sequential Factorial ( Recursion1.java )
+- 
+  - Program to find the factorial of a given number in a sequential order using the RECURSION concept in Java.
+
+Fibonacci Series ( Recursion2.java )
+-
+  - Implemented the Fibonacci series using RECURSION.
