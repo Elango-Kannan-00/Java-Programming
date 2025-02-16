@@ -67,3 +67,8 @@ Sequential Factorial ( Recursion1.java )
 Fibonacci Series ( Recursion2.java )
 -
   - Implemented the Fibonacci series using RECURSION.
+
+Innerclasses in Java ( InnerClasses.java )
+-
+  - Demonstrating how inner and outer classes will work in java language.
+    
