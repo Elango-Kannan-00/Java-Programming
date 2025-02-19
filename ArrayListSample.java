@@ -47,3 +47,47 @@ public class ArrayListSample {
         }
     }
 }
+
+// Output of the code
+/* 
+Pineapple
+Mango
+Banana
+Grapes
+Orange
+Fig
+Apple
+After the addition of the new element:
+Pineapple
+Mango
+Banana
+Jackfruit
+Grapes
+Orange
+Fig
+Apple
+After the deletion of the element:
+Pineapple
+Banana
+Jackfruit
+Grapes
+Orange
+Fig
+Apple
+After the updation of the element: Jackfruit
+Pineapple
+Banana
+Papaya
+Grapes
+Orange
+Fig
+Apple
+The size of the ArrayList is: 7
+Apple
+Banana
+Fig
+Grapes
+Orange
+Papaya
+Pineapple 
+*/
