@@ -74,5 +74,5 @@ Innerclasses in Java ( InnerClasses.java )
 
 ArrayList in Java ( ArrayListSample.java )
 -
-  - The difference between the Tradtional array and the ArrayList was infered from the above sample program. It's Just a sample program that demonstrates the basic operations that could be done in ArrayList.
+  - The difference between the Traditional array and the ArrayList was infered from the above sample program. It's Just a sample program that demonstrates the basic operations that could be done in ArrayList.
     
